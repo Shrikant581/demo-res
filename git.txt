@@ -1,0 +1,27 @@
+#git Notes
+to add the all files and changes using git add
+
+git commit to save the changes in local side at specific time 
+
+.git file include all the changes
+
+to all changes push to remote repositatry
+git push
+
+to pull the code to local repositary as well as local folder
+git pull
+
+git --ditribute vcs
+dropbox onedrive --centralized vcs
+
+to install gits new version is 
+sudo apt -get install get
+
+for global configuration across devise setup it in .gitconfig
+
+git config --global user.email
+git config --global user.name 
+
+github pass S8rik@nt581
+
+for git cloning use git clone paste the link
