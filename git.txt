@@ -11,6 +11,9 @@ git push
 to pull the code to local repositary as well as local folder
 git pull
 
+vaibhav vaidya
+Shrikant Mane
+ 
 git --ditribute vcs
 dropbox onedrive --centralized vcs
 
